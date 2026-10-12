@@ -1,0 +1,198 @@
+[
+  {
+    "org_id": "997545285",
+    "org_name": "MBDA DEUTSCHLAND GMBH",
+    "JointVentures": [
+      "Airbus",
+      "BAE Systems",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 38567066.66
+  },
+  {
+    "org_id": "998552824",
+    "org_name": "MBDA FRANCE",
+    "JointVentures": [
+      "Airbus",
+      "BAE Systems",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 52313097.37
+  },
+  {
+    "org_id": "999908205",
+    "org_name": "THALES ALENIA SPACE FRANCE SAS",
+    "JointVentures": [
+      "Thales",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 27479600.54
+  },
+  {
+    "org_id": "990040007",
+    "org_name": "MBDA ITALIA SPA",
+    "JointVentures": [
+      "Airbus",
+      "BAE Systems",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 34842033.81
+  },
+  {
+    "org_id": "932228201",
+    "org_name": "ARIANEGROUP SAS",
+    "JointVentures": [
+      "Airbus",
+      "Safran"
+    ],
+    "total_eu_contribution": 18948049.35
+  },
+  {
+    "org_id": "999488195",
+    "org_name": "THALES ALENIA SPACE ITALIA SPA",
+    "JointVentures": [
+      "Thales",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 14239588.55
+  },
+  {
+    "org_id": "900364768",
+    "org_name": "ROXEL FRANCE",
+    "JointVentures": [
+      "Airbus",
+      "BAE Systems",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 2455500.88
+  },
+  {
+    "org_id": "999939051",
+    "org_name": "TELESPAZIO SPA",
+    "JointVentures": [
+      "Leonardo",
+      "Thales"
+    ],
+    "total_eu_contribution": 9894410.500000002
+  },
+  {
+    "org_id": "936720271",
+    "org_name": "LYNRED",
+    "JointVentures": [
+      "Safran",
+      "Thales"
+    ],
+    "total_eu_contribution": 10305041.75
+  },
+  {
+    "org_id": "998738579",
+    "org_name": "COMPAGNIE INDUSTRIELLE DES LASERS CILAS SA",
+    "JointVentures": [
+      "Safran",
+      "MBDA"
+    ],
+    "total_eu_contribution": 8153640.0
+  },
+  {
+    "org_id": "999485770",
+    "org_name": "UNITED MONOLITHIC SEMICONDUCTORS GMBH",
+    "JointVentures": [
+      "Airbus",
+      "Thales"
+    ],
+    "total_eu_contribution": 4243003.72
+  },
+  {
+    "org_id": "898301190",
+    "org_name": "TDW GESELLSCHAFT FUR VERTEIDIGUNGSTECHNISCHE WIRKSYSTEME MIT BESCHRANKTE RHAFTUNG",
+    "JointVentures": [
+      "Airbus",
+      "BAE Systems",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 2558342.3899999997
+  },
+  {
+    "org_id": "999701595",
+    "org_name": "THALES ALENIA SPACE ESPANA SA",
+    "JointVentures": [
+      "Thales",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 2788147.0
+  },
+  {
+    "org_id": "996281278",
+    "org_name": "UNITED MONOLITHIC SEMICONDUCTORS SAS",
+    "JointVentures": [
+      "Airbus",
+      "Thales"
+    ],
+    "total_eu_contribution": 2228754.21
+  },
+  {
+    "org_id": "970256469",
+    "org_name": "BAYERN-CHEMIE GESELLSCHAFTFUR FUR FLUGCHEMISCHE ANTRIEBE MITBESCHRANKTER HAFTUNG",
+    "JointVentures": [
+      "Airbus",
+      "BAE Systems",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 12106057.1
+  },
+  {
+    "org_id": "892729801",
+    "org_name": "MBDA ESPANA SL",
+    "JointVentures": [
+      "Airbus",
+      "BAE Systems",
+      "Leonardo"
+    ],
+    "total_eu_contribution": 867911.18
+  },
+  {
+    "org_id": "997899044",
+    "org_name": "TELESPAZIO FRANCE SAS",
+    "JointVentures": [
+      "Leonardo",
+      "Thales"
+    ],
+    "total_eu_contribution": 568023.25
+  },
+  {
+    "org_id": "931927113",
+    "org_name": "ARIANEGROUP GMBH",
+    "JointVentures": [
+      "Airbus",
+      "Safran"
+    ],
+    "total_eu_contribution": 558711.86
+  },
+  {
+    "org_id": "965560408",
+    "org_name": "TELESPAZIO GERMANY GMBH",
+    "JointVentures": [
+      "Leonardo",
+      "Thales"
+    ],
+    "total_eu_contribution": 512669.98
+  },
+  {
+    "org_id": "988808010",
+    "org_name": "AEROSPACE PROPULSION PRODUCTS (A. P.P.) BV",
+    "JointVentures": [
+      "Airbus",
+      "Safran"
+    ],
+    "total_eu_contribution": 51325.0
+  },
+  {
+    "org_id": "892569169",
+    "org_name": "ARIANESPACE SAS",
+    "JointVentures": [
+      "Airbus",
+      "Safran"
+    ],
+    "total_eu_contribution": 0.0
+  }
+]

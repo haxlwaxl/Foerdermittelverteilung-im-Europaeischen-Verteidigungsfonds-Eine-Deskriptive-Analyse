@@ -1,0 +1,372 @@
+[
+  {
+    "Bigcorp_group_id": "BIG_LEONARDO",
+    "Bigcorp_group_name": "Leonardo",
+    "org_ids": [
+      "998627417",
+      "999939051",
+      "898895121",
+      "911606680",
+      "997457985",
+      "997899044",
+      "965560408",
+      "880134836",
+      "991678046"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_SAAB",
+    "Bigcorp_group_name": "Saab",
+    "org_ids": [
+      "999959615",
+      "998683871",
+      "974382461",
+      "880915783",
+      "884986582",
+      "888708084",
+      "928766950"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_RHEINMETALL",
+    "Bigcorp_group_name": "Rheinmetall",
+    "org_ids": [
+      "971000459",
+      "999966696",
+      "898579871",
+      "889303276",
+      "885074270",
+      "898735944",
+      "889000442",
+      "889008590",
+      "889125572",
+      "884547754",
+      "998617523",
+      "880408473"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_AIRBUS",
+    "Bigcorp_group_name": "Airbus",
+    "org_ids": [
+      "999991819",
+      "999809265",
+      "999699558",
+      "999988327",
+      "998157452",
+      "952774935",
+      "997768676",
+      "991247948",
+      "877099124",
+      "958960334",
+      "988419913",
+      "884308843",
+      "999964756",
+      "886154753",
+      "999963010",
+      "924551427",
+      "959580455",
+      "991767868",
+      "999944095"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_THALES",
+    "Bigcorp_group_name": "Thales",
+    "org_ids": [
+      "999971934",
+      "999908205",
+      "999954862",
+      "999961555",
+      "999984447",
+      "999751938",
+      "911319366",
+      "999488195",
+      "999480241",
+      "995925967",
+      "991579009",
+      "999701595",
+      "999939730",
+      "881386912",
+      "983564481",
+      "877031806",
+      "890652158",
+      "884230273",
+      "999675308",
+      "884360156"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_SAFRAN",
+    "Bigcorp_group_name": "Safran",
+    "org_ids": [
+      "999954668",
+      "999987163",
+      "934220290",
+      "953492929",
+      "880960112",
+      "999957772",
+      "997771877",
+      "908319932",
+      "999955444",
+      "988023959",
+      "999961749",
+      "997722989",
+      "997757424",
+      "999963689",
+      "999462102"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_KONGSBERG_GRUPPEN",
+    "Bigcorp_group_name": "Kongsberg Gruppen",
+    "org_ids": [
+      "903174373",
+      "881012686",
+      "999444351",
+      "892683241",
+      "925001022"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_MBDA",
+    "Bigcorp_group_name": "MBDA",
+    "org_ids": [
+      "997545285",
+      "998552824",
+      "990040007",
+      "900364768",
+      "898301190",
+      "970256469",
+      "892729801"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_HENSOLDT",
+    "Bigcorp_group_name": "Hensoldt",
+    "org_ids": [
+      "922658084",
+      "906778311",
+      "999951758",
+      "888515636",
+      "997511626",
+      "957201918",
+      "889911369",
+      "952163253"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_DIEHL",
+    "Bigcorp_group_name": "Diehl",
+    "org_ids": [
+      "998381813",
+      "920737969",
+      "999568705"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_NAVANTIA",
+    "Bigcorp_group_name": "Navantia",
+    "org_ids": [
+      "971894411",
+      "935265077"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_NAVAL_GROUP",
+    "Bigcorp_group_name": "Naval Group",
+    "org_ids": [
+      "998381522",
+      "893356906",
+      "999906750"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_KNDS",
+    "Bigcorp_group_name": "KNDS",
+    "org_ids": [
+      "892662580",
+      "901314301",
+      "902829247",
+      "893906605",
+      "940660023",
+      "973827912",
+      "894838969",
+      "987338072",
+      "892829129",
+      "893662747"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_DASSAULT_AVIATION_GROUP",
+    "Bigcorp_group_name": "Dassault Aviation Group",
+    "org_ids": [
+      "999957675"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_ARIANEGROUP",
+    "Bigcorp_group_name": "ArianeGroup",
+    "org_ids": [
+      "932228201",
+      "931927113",
+      "988808010",
+      "892569169"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_THYSSENKRUPP_TKMS",
+    "Bigcorp_group_name": "ThyssenKrupp / TKMS",
+    "org_ids": [
+      "986464587",
+      "950773049",
+      "880722268"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_EDGE_GROUP",
+    "Bigcorp_group_name": "EDGE Group",
+    "org_ids": [
+      "915338270"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_ST_ENGINEERING",
+    "Bigcorp_group_name": "ST Engineering",
+    "org_ids": [
+      "953084171"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_LYNRED",
+    "Bigcorp_group_name": "Lynred",
+    "org_ids": [
+      "936720271"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_CILAS",
+    "Bigcorp_group_name": "CILAS",
+    "org_ids": [
+      "998738579"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_GE_AEROSPACE",
+    "Bigcorp_group_name": "GE Aerospace",
+    "org_ids": [
+      "950043221",
+      "990434021",
+      "992390026",
+      "924972310"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_PGZ",
+    "Bigcorp_group_name": "PGZ",
+    "org_ids": [
+      "966124366",
+      "888475284",
+      "877038208",
+      "941078675"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_FINCANTIERI",
+    "Bigcorp_group_name": "Fincantieri",
+    "org_ids": [
+      "911383483",
+      "997336638",
+      "999771629",
+      "999617496",
+      "873830515",
+      "877850971",
+      "923481517",
+      "888592848"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_GENERAL_DYNAMICS_CORP",
+    "Bigcorp_group_name": "General Dynamics Corp.",
+    "org_ids": [
+      "952863981",
+      "892381862"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_UMS",
+    "Bigcorp_group_name": "United Monolithic Semiconductors (UMS)",
+    "org_ids": [
+      "999485770",
+      "996281278"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_MELROSE_INDUSTRIES_GKN_AEROSPACE",
+    "Bigcorp_group_name": "Melrose Industries / GKN Aerospace",
+    "org_ids": [
+      "999984641",
+      "997768288"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_NORTHROP_GRUMMAN_CORP",
+    "Bigcorp_group_name": "Northrop Grumman Corp.",
+    "org_ids": [
+      "923856907",
+      "951358541"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_RTX",
+    "Bigcorp_group_name": "RTX",
+    "org_ids": [
+      "893286193",
+      "997800201"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_BAE_SYSTEMS",
+    "Bigcorp_group_name": "BAE Systems",
+    "org_ids": [
+      "889316177",
+      "884502261",
+      "959630119"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_HONEYWELL_INTERNATIONAL",
+    "Bigcorp_group_name": "Honeywell International",
+    "org_ids": [
+      "997834830"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_ROLLS_ROYCE",
+    "Bigcorp_group_name": "Rolls-Royce",
+    "org_ids": [
+      "999919554"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_HONEYWELL_AEROSPACE",
+    "Bigcorp_group_name": "Honeywell Aerospace",
+    "org_ids": [
+      "934691128"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_CZECHOSLOVAK_GROUP",
+    "Bigcorp_group_name": "Czechoslovak Group",
+    "org_ids": [
+      "880534670"
+    ]
+  },
+  {
+    "Bigcorp_group_id": "BIG_TELEDYNE_TECHNOLOGIES",
+    "Bigcorp_group_name": "Teledyne Technologies",
+    "org_ids": [
+      "957084451"
+    ]
+  }
+]

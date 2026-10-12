@@ -1,0 +1,892 @@
+[
+  {
+    "Ocorp_group_id": "OTHER_INDRA_GROUP",
+    "Ocorp_group_name": "Indra Group",
+    "org_ids": [
+      "999959130",
+      "899914203",
+      "877159943",
+      "952545239",
+      "911853739",
+      "958916490",
+      "880310406",
+      "897038056",
+      "999619824",
+      "877039663"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SENER_GROUP",
+    "Ocorp_group_name": "Sener Group",
+    "org_ids": [
+      "899285837"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ELT_GROUP_ELETTRONICA_GROUP",
+    "Ocorp_group_name": "ELT Group / Elettronica Group",
+    "org_ids": [
+      "911716484"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_GMV_GROUP",
+    "Ocorp_group_name": "GMV Group",
+    "org_ids": [
+      "999905004",
+      "999924986",
+      "951808039"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NAMMO_GROUP",
+    "Ocorp_group_name": "Nammo Group",
+    "org_ids": [
+      "986597186"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_JOHN_COCKERILL_GROUP",
+    "Ocorp_group_name": "John Cockerill Group",
+    "org_ids": [
+      "897111776",
+      "905762527",
+      "885759187",
+      "886103052",
+      "881922158"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_OHB_GROUP",
+    "Ocorp_group_name": "OHB Group",
+    "org_ids": [
+      "989360037",
+      "891438440",
+      "954978484",
+      "962314400",
+      "898508382",
+      "997629772"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_PATRIA_GROUP",
+    "Ocorp_group_name": "Patria Group",
+    "org_ids": [
+      "905521773",
+      "899023064",
+      "893730647",
+      "917225114",
+      "881717100",
+      "870101738"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_BITTIUM_GROUP",
+    "Ocorp_group_name": "Bittium Group",
+    "org_ids": [
+      "999647372",
+      "897241465"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LMT_GROUP",
+    "Ocorp_group_name": "LMT Group",
+    "org_ids": [
+      "906133746"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SPACE_HELLAS_GROUP",
+    "Ocorp_group_name": "Space Hellas Group",
+    "org_ids": [
+      "999778322"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_FN_HERSTAL_GROUP",
+    "Ocorp_group_name": "FN Herstal Group",
+    "org_ids": [
+      "899164393",
+      "884294972"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SOPRA_STERIA_GROUP",
+    "Ocorp_group_name": "Sopra Steria Group",
+    "org_ids": [
+      "999938275",
+      "917238500",
+      "951375807",
+      "880084493"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_HELLENIC_AEROSPACE_INDUSTRY_HAI_GROUP",
+    "Ocorp_group_name": "Hellenic Aerospace Industry (HAI) Group",
+    "org_ids": [
+      "999975232"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_AVL_GROUP",
+    "Ocorp_group_name": "AVL Group",
+    "org_ids": [
+      "999952243"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_TERMA_GROUP",
+    "Ocorp_group_name": "Terma Group",
+    "org_ids": [
+      "999958936"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ERICSSON_GROUP",
+    "Ocorp_group_name": "Ericsson Group",
+    "org_ids": [
+      "999910921",
+      "895532034",
+      "999942931",
+      "999944289"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NOKIA_GROUP",
+    "Ocorp_group_name": "Nokia Group",
+    "org_ids": [
+      "996375562",
+      "950760051",
+      "999757370",
+      "999925471"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_EXAIL_GROUP",
+    "Ocorp_group_name": "Exail Group",
+    "org_ids": [
+      "892919242",
+      "937456113",
+      "951468248"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_GRUPO_OESIA",
+    "Ocorp_group_name": "Grupo Oesía",
+    "org_ids": [
+      "989411932",
+      "899308826",
+      "940084910",
+      "881794312",
+      "943755196",
+      "888763083"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_WISER_TECHNOLOGY_GROUP",
+    "Ocorp_group_name": "Wiser Technology Group",
+    "org_ids": [
+      "985086411",
+      "894839454"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ATOS_GROUP_EVIDEN",
+    "Ocorp_group_name": "Atos Group (Eviden)",
+    "org_ids": [
+      "996058081",
+      "893414621",
+      "881726024",
+      "964110452",
+      "888410876"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_DAMEN_SHIPYARDS_GROUP",
+    "Ocorp_group_name": "Damen Shipyards Group",
+    "org_ids": [
+      "874038774",
+      "997698351",
+      "888269353"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_VINCORION_GROUP",
+    "Ocorp_group_name": "VINCORION Group",
+    "org_ids": [
+      "888829237",
+      "996486821"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_EMBENTION_GROUP",
+    "Ocorp_group_name": "Embention Group",
+    "org_ids": [
+      "973902311"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ANDOYA_SPACE_GROUP",
+    "Ocorp_group_name": "Andøya Space Group",
+    "org_ids": [
+      "888341812",
+      "888343849"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_VALNEVA_GROUP",
+    "Ocorp_group_name": "Valneva Group",
+    "org_ids": [
+      "949830209",
+      "952667556"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_CY4GATE_GROUP",
+    "Ocorp_group_name": "CY4Gate Group",
+    "org_ids": [
+      "905070917"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ITP_AERO_GROUP",
+    "Ocorp_group_name": "ITP Aero Group",
+    "org_ids": [
+      "999791708"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_STMICROELECTRONICS_GROUP",
+    "Ocorp_group_name": "STMicroelectronics Group",
+    "org_ids": [
+      "997962094",
+      "999977657"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SYNERGIE_CAD_GROUP",
+    "Ocorp_group_name": "Synergie CAD Group",
+    "org_ids": [
+      "885568485",
+      "891380628"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_CT_ENGINEERING_GROUP",
+    "Ocorp_group_name": "CT Engineering Group",
+    "org_ids": [
+      "986544321"
+    ]
+  },
+  {
+    "Ocorp_group_id": "man4",
+    "Ocorp_group_name": "HM ELEKTRONIKAI, LOGISZTIKAI ES VAGYONKEZELO ZARTKORUEN MUKODO RESZVENYTARSASAG",
+    "org_ids": [
+      "898205257"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_AVIO_GROUP",
+    "Ocorp_group_name": "Avio Group",
+    "org_ids": [
+      "911649069"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SH_GROUP",
+    "Ocorp_group_name": "SH Group",
+    "org_ids": [
+      "888596340"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_BERTIN_TECHNOLOGIES_GROUP",
+    "Ocorp_group_name": "Bertin Technologies Group",
+    "org_ids": [
+      "970904429",
+      "997538592"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SAIPEM_GROUP",
+    "Ocorp_group_name": "Saipem Group",
+    "org_ids": [
+      "996409803"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_INSTA_GROUP",
+    "Ocorp_group_name": "Insta Group",
+    "org_ids": [
+      "973303918",
+      "888812650"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NETCOMPANY_GROUP",
+    "Ocorp_group_name": "Netcompany Group",
+    "org_ids": [
+      "999702371"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_880611106",
+    "Ocorp_group_name": "PMG PRECISION MECHANICS GROUP GMBH",
+    "org_ids": [
+      "880611106"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_TEKEVER_GROUP",
+    "Ocorp_group_name": "TEKEVER Group",
+    "org_ids": [
+      "899397387",
+      "958732481"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_PHILIPS_GROUP",
+    "Ocorp_group_name": "Philips Group",
+    "org_ids": [
+      "999991625",
+      "936940752"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_TELEFONICA_GROUP",
+    "Ocorp_group_name": "Telefónica Group",
+    "org_ids": [
+      "999946908",
+      "876907937",
+      "917790915"
+    ]
+  },
+  {
+    "Ocorp_group_id": "man5",
+    "Ocorp_group_name": "SVENSK KONSTRUKTIONSTJAENST AB",
+    "org_ids": [
+      "899315907"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_MEWS_PARTNERS_GROUP",
+    "Ocorp_group_name": "Mews Partners Group",
+    "org_ids": [
+      "951674664",
+      "997390570"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_WB_GROUP",
+    "Ocorp_group_name": "WB Group",
+    "org_ids": [
+      "884561528"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_GDTECH_GROUP",
+    "Ocorp_group_name": "GDTech Group / Global Design Technology",
+    "org_ids": [
+      "986301918",
+      "995249974"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_EVALLIC_GROUP",
+    "Ocorp_group_name": "Evallic Group",
+    "org_ids": [
+      "999556289"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_TXT_GROUP",
+    "Ocorp_group_name": "TXT Group",
+    "org_ids": [
+      "992602068",
+      "884000383",
+      "999909466"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SQUAREHEAD_TECHNOLOGY_GROUP",
+    "Ocorp_group_name": "Squarehead Technology Group",
+    "org_ids": [
+      "959828484"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_MTU_AERO_ENGINES_GROUP",
+    "Ocorp_group_name": "MTU Aero Engines Group",
+    "org_ids": [
+      "950259822"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ECLECTICIQ_GROUP",
+    "Ocorp_group_name": "EclecticIQ Group",
+    "org_ids": [
+      "885411151"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_EUTELSAT_GROUP",
+    "Ocorp_group_name": "Eutelsat Group",
+    "org_ids": [
+      "997257971"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_CELESTIA_GROUP",
+    "Ocorp_group_name": "Celestia Group",
+    "org_ids": [
+      "895924690",
+      "907255745"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_HELSING_GROUP",
+    "Ocorp_group_name": "Helsing Group",
+    "org_ids": [
+      "890415866",
+      "892984620"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_D_ORBIT_GROUP",
+    "Ocorp_group_name": "D-Orbit Group",
+    "org_ids": [
+      "998526343",
+      "998881363",
+      "952900162"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SAVOX_GROUP",
+    "Ocorp_group_name": "Savox Group",
+    "org_ids": [
+      "998895719"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_INTEGRIS_COMPOSITES_GROUP",
+    "Ocorp_group_name": "Integris Composites Group",
+    "org_ids": [
+      "895035879",
+      "889990133"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_TRACASA_GROUP",
+    "Ocorp_group_name": "Tracasa Group",
+    "org_ids": [
+      "904215377",
+      "996328905"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_GRADEL_GROUP",
+    "Ocorp_group_name": "Gradel Group",
+    "org_ids": [
+      "881230839",
+      "884384891"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_RINA_GROUP",
+    "Ocorp_group_name": "RINA Group",
+    "org_ids": [
+      "999951467",
+      "998453011"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LOCCIONI_GROUP",
+    "Ocorp_group_name": "Loccioni Group",
+    "org_ids": [
+      "972374173",
+      "991209924"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_997718042",
+    "Ocorp_group_name": "MASA GROUP",
+    "org_ids": [
+      "997718042"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_VINCI_GROUP",
+    "Ocorp_group_name": "VINCI Group",
+    "org_ids": [
+      "999926441",
+      "966322343"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_BEYOND_GRAVITY_GROUP",
+    "Ocorp_group_name": "Beyond Gravity Group",
+    "org_ids": [
+      "972664300",
+      "999653095",
+      "997538204"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_FORCIT_GROUP",
+    "Ocorp_group_name": "FORCIT Group",
+    "org_ids": [
+      "889439949"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_CREOTECH_INSTRUMENTS_GROUP",
+    "Ocorp_group_name": "Creotech Instruments Group",
+    "org_ids": [
+      "913776473"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ALMAVIVA_GROUP",
+    "Ocorp_group_name": "Almaviva Group",
+    "org_ids": [
+      "961448384",
+      "897692612"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ROHDE_SCHWARZ_GROUP",
+    "Ocorp_group_name": "Rohde & Schwarz Group",
+    "org_ids": [
+      "999949430"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SCIOTEQ_GROUP",
+    "Ocorp_group_name": "ScioTeq Group",
+    "org_ids": [
+      "931670257"
+    ]
+  },
+  {
+    "Ocorp_group_id": "man3",
+    "Ocorp_group_name": "PIXII AS",
+    "org_ids": [
+      "897440412"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_AERTEC_GROUP",
+    "Ocorp_group_name": "AERTEC Group",
+    "org_ids": [
+      "986060485"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_885803516",
+    "Ocorp_group_name": "SIA DATI GROUP",
+    "org_ids": [
+      "885803516"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_HI_IBERIA_GROUP",
+    "Ocorp_group_name": "HI Iberia Group",
+    "org_ids": [
+      "937940337"
+    ]
+  },
+  {
+    "Ocorp_group_id": "man8",
+    "Ocorp_group_name": "LIGHT STRUCTURES AS",
+    "org_ids": [
+      "951093634"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_HOLISTEX_GROUP",
+    "Ocorp_group_name": "Holistex Group",
+    "org_ids": [
+      "898316128",
+      "880225337"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NFM_GROUP",
+    "Ocorp_group_name": "NFM Group",
+    "org_ids": [
+      "911046408",
+      "998723544",
+      "888975319",
+      "873886387"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_EXATEL_GROUP",
+    "Ocorp_group_name": "EXATEL Group",
+    "org_ids": [
+      "940848688"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_CRITICAL_SOFTWARE_GROUP",
+    "Ocorp_group_name": "Critical Software Group",
+    "org_ids": [
+      "998860120"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_895391966",
+    "Ocorp_group_name": "DEVSLATE GROUP UAB",
+    "org_ids": [
+      "895391966"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_MODELON_GROUP",
+    "Ocorp_group_name": "Modelon Group",
+    "org_ids": [
+      "985954464",
+      "892980934"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_DNV_GROUP",
+    "Ocorp_group_name": "DNV Group",
+    "org_ids": [
+      "975106469",
+      "950631817",
+      "999929060"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_890531102",
+    "Ocorp_group_name": "GRABHER GROUP GMBH",
+    "org_ids": [
+      "890531102"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LINGSOFT_GROUP",
+    "Ocorp_group_name": "Lingsoft Group",
+    "org_ids": [
+      "964984422",
+      "912303722"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NTT_DATA_GROUP",
+    "Ocorp_group_name": "NTT DATA Group",
+    "org_ids": [
+      "999938081"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_EXPERT_AI_GROUP",
+    "Ocorp_group_name": "expert.ai Group",
+    "org_ids": [
+      "999763675"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_RENK_GROUP",
+    "Ocorp_group_name": "RENK Group",
+    "org_ids": [
+      "888460734",
+      "973065977"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_UMOE_GROUP",
+    "Ocorp_group_name": "Umoe Group",
+    "org_ids": [
+      "996615249"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_4C_GROUP_AB",
+    "Ocorp_group_name": "4C Group AB",
+    "org_ids": [
+      "936496686"
+    ]
+  },
+  {
+    "Ocorp_group_id": "man6",
+    "Ocorp_group_name": "OTHER_OPTRONIC_INSTRUMENTS_PRODUCTS",
+    "org_ids": [
+      "930069175"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_893334305",
+    "Ocorp_group_name": "TESTARMY GROUP SPOLKA AKCYJNA",
+    "org_ids": [
+      "893334305"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ICEYE_GROUP",
+    "Ocorp_group_name": "ICEYE Group",
+    "org_ids": [
+      "929894672"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ROSENBAUER_GROUP",
+    "Ocorp_group_name": "Rosenbauer Group",
+    "org_ids": [
+      "972434992"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_951947040",
+    "Ocorp_group_name": "RE-LION GROUP B.V.",
+    "org_ids": [
+      "951947040"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_PBS_GROUP",
+    "Ocorp_group_name": "PBS Group",
+    "org_ids": [
+      "997392219"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_BV_TECH_GROUP",
+    "Ocorp_group_name": "BV TECH Group",
+    "org_ids": [
+      "941331651"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_TELENOR_GROUP",
+    "Ocorp_group_name": "Telenor Group",
+    "org_ids": [
+      "999910630"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ZABALA_INNOVATION_GROUP",
+    "Ocorp_group_name": "Zabala Innovation Group",
+    "org_ids": [
+      "996410094",
+      "910085817",
+      "908114874"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_MNEMONIC_GROUP",
+    "Ocorp_group_name": "mnemonic Group",
+    "org_ids": [
+      "917714673"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_POLYMER_FACTORY_SWEDEN_GROUP",
+    "Ocorp_group_name": "Polymer Factory Sweden Group",
+    "org_ids": [
+      "998147752"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_OFFICINA_STELLARE_LOGIC_GROUP",
+    "Ocorp_group_name": "Officina Stellare Group (Logic subgroup)",
+    "org_ids": [
+      "960132482",
+      "888612636"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ENGINEERING_GROUP",
+    "Ocorp_group_name": "Engineering Group",
+    "org_ids": [
+      "999960488"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_MOTOR_OIL_GROUP",
+    "Ocorp_group_name": "Motor Oil Group",
+    "org_ids": [
+      "983298410",
+      "887060927"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ROYAL_HUISMAN_GROUP",
+    "Ocorp_group_name": "Royal Huisman Group",
+    "org_ids": [
+      "872455346",
+      "880339506"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_LE_972162131",
+    "Ocorp_group_name": "OLTIS GROUP AS",
+    "org_ids": [
+      "972162131"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SAFETECH_INNOVATIONS_GROUP",
+    "Ocorp_group_name": "Safetech Innovations Group",
+    "org_ids": [
+      "952426414"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SSC_SWEDISH_SPACE_CORPORATION",
+    "Ocorp_group_name": "SSC - Swedish Space Corporation",
+    "org_ids": [
+      "995488012"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NRB_GROUP",
+    "Ocorp_group_name": "NRB Group",
+    "org_ids": [
+      "893682632"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NORWEGIAN_HYDROGEN_GROUP",
+    "Ocorp_group_name": "Norwegian Hydrogen Group",
+    "org_ids": [
+      "883233501"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_NEWAYS_GROUP",
+    "Ocorp_group_name": "Neways Group",
+    "org_ids": [
+      "878832708"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_SAPA_GROUP",
+    "Ocorp_group_name": "SAPA Group",
+    "org_ids": [
+      "940924542"
+    ]
+  },
+  {
+    "Ocorp_group_id": "man1",
+    "Ocorp_group_name": "ADVOKAADIBUROO SORAINEN OU",
+    "org_ids": [
+      "883477068"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_ROVI_GROUP",
+    "Ocorp_group_name": "ROVI Group",
+    "org_ids": [
+      "894806086"
+    ]
+  },
+  {
+    "Ocorp_group_id": "OTHER_PHAXIAM_THERAPEUTICS_GROUP",
+    "Ocorp_group_name": "PHAXIAM Therapeutics Group",
+    "org_ids": [
+      "910079706"
+    ]
+  }
+]
